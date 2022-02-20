@@ -1,0 +1,10 @@
+/home/harle/developer-exercises/1.basic/3.links/exercise/target/release/deps/rmp_serde-51b480ab8fc6992d.rmeta: /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/lib.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/config.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/decode.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/encode.rs
+
+/home/harle/developer-exercises/1.basic/3.links/exercise/target/release/deps/librmp_serde-51b480ab8fc6992d.rlib: /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/lib.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/config.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/decode.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/encode.rs
+
+/home/harle/developer-exercises/1.basic/3.links/exercise/target/release/deps/rmp_serde-51b480ab8fc6992d.d: /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/lib.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/config.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/decode.rs /home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/encode.rs
+
+/home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/lib.rs:
+/home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/config.rs:
+/home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/decode.rs:
+/home/harle/developer-exercises/.cargo/registry/src/github.com-1ecc6299db9ec823/rmp-serde-0.15.4/src/encode.rs:
